@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+real_test_samples/
+real_phishing_samples/
